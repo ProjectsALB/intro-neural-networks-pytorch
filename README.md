@@ -24,7 +24,7 @@
 
 | | |
 |---|---|
-| **Linku** | SHTO-LINKUN-E-NETLIFY-KËTU |
+| **Linku** | https://rrjetat-neurale.netlify.app/ |
 | **Fjalëkalimi** | `12345` |
 
 ## Programi i kursit
